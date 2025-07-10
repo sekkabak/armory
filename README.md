@@ -1,1 +1,74 @@
-# armory
+# Armory
+
+A list of things for me to get used to and fetch for every new machine
+
+# List
+- tmux installation and config from gist
+- BURP + extensions as files
+- sliver
+- static binaries (repo from github)
+- nc.exe
+- nmap
+- mimikatz.exe
+- vscode
+- chisel.exe + chisel.elf
+- winpeas
+- linpeas
+- adpeas
+- linenum
+- deepce
+- bloodhound
+- sharphound
+- pyhound
+- radare2
+- kerbrute
+- ldapdomaindump
+- nxc
+- python scripts repo
+- seclists
+- wordlists + cracklists
+- evil-winrm
+- turbo intruder scripts
+- proxychains configuration
+- powerview
+- privesccheck
+- seatbelt
+- PowerUp
+- Hydra
+- Responder
+- mitmproxy
+- nmap automator
+- snmpbulk
+- onesixtyone
+- disable FW + defender
+- skrypty persistance
+- sharppersist
+- ligolo-ng
+- chisel
+- tun2socks
+- DNS proxy solution
+- Rubeus
+- Mimikatz
+- pspy64
+- AMSI bypass
+- binary to memory loaders
+- Host recon
+- Fileless lateral movement (SCShell)
+- minidump
+- Invoke-SharpChisel
+- bloodhound-quickwin
+- Sharphound
+- printer bug binaries
+- PowerUpSQL
+- SqlMap
+- Persistance add user + RDP scripts
+- LAPStoolkit
+- SharpSploit
+- redsocks
+- donut
+- linux-smart-enumeration
+- Certify
+- http://amsi.fail/
+- moonwalk
+- LaZagne
+- linWinPwn  
