@@ -7,7 +7,7 @@ A list of things for me to get used to and fetch for every new machine
 - BURP + extensions as files
 - sliver
 - static binaries (repo from github)
-- nc.exe
+- nc.exe | nc64.exe
 - nmap
 - mimikatz.exe
 - vscode
@@ -75,4 +75,14 @@ A list of things for me to get used to and fetch for every new machine
 - script creating reverse staging payloads with http server hosting them (make them generate themself depening on the rev address)
 - rpcdump.py
 - krbrelayx
- 
+- SysInternalsSuite
+- TargetedKerberoast
+- Powercat
+- PrintSpoofer
+- potatoes (GodPotato)
+- SharpGPOAbuse (?)
+- pth toolkit (?)
+- ntlm theft (?)
+- Whisker + pyWhisker (?)
+- SprayingToolkit (?)
+
