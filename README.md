@@ -71,4 +71,8 @@ A list of things for me to get used to and fetch for every new machine
 - http://amsi.fail/
 - moonwalk
 - LaZagne
-- linWinPwn  
+- linWinPwn 
+- script creating reverse staging payloads with http server hosting them (make them generate themself depening on the rev address)
+- rpcdump.py
+- krbrelayx
+ 
