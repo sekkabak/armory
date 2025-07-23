@@ -3,6 +3,7 @@
 A list of things for me to get used to and fetch for every new machine
 
 # List
+- local python env file? (so that I will have all python extensions in one version and with all plugins)
 - tmux installation and config from gist
 - BURP + extensions as files
 - sliver
@@ -85,4 +86,9 @@ A list of things for me to get used to and fetch for every new machine
 - ntlm theft (?)
 - Whisker + pyWhisker (?)
 - SprayingToolkit (?)
+- memory dumpers
+- binaries to memory loader
+- impacket locally
+- 
+- 
 
